@@ -1,4 +1,4 @@
-# Machine Learning projects with Scikit-Learn
+# Data exploration and ML projects with Scikit-Learn, Pandas and Seaborn
 ## By [Bhavneek Singh](https://bhavneek.netlify.app/)
 
 Made a few small ML projects after completing a course offered by [Pierian Data](https://pieriantraining.com/) Training on Udemy.
